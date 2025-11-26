@@ -49,6 +49,12 @@ div ul {
     text-align: left ;
     padding-left: 60px;
 }
+
+ul:hover {
+    color: #07c8fd;
+    transition: 0.5s;
+} 
+
 button {
     font-family: 'Poppins', sans-serif;
     font-size: 20px;

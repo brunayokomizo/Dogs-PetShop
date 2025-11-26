@@ -1,2 +1,3 @@
 # Dogs-PetShop
-Layout Responsivo
+Layout Responsivo.
+Estudo utilizando apenas HTML e CSS.
